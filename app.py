@@ -51,7 +51,7 @@ def home():
     <body>
 
         <!-- Profile -->
-        <img src="https://drive.google.com/uc?export=view&id=1g1Ix06xvKmotzBHVZuB5r7ZW9pccz7GT">
+        <img src="https://raw.githubusercontent.com/yan-825/portfolio/main/AMA11028.jpg">
         <h1>LEE PO YAN</h1>
         <p>Data-driven optimization & modeling</p>
 
